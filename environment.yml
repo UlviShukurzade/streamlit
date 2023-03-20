@@ -1,0 +1,6 @@
+name: streamlit
+channels:
+  - defaults
+dependencies:
+  - python
+prefix: /opt/anaconda3/envs/streamlit
